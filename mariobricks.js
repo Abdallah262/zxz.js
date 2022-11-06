@@ -53,7 +53,6 @@ function brickBlock(sideLength)
     forward(sideLength*2/3)
     left(180);
 
-
 }
 
 function brickRow(sideLength, numBricks)
